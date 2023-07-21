@@ -13,7 +13,7 @@ title = "SauravDhakal"
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
-  # description = "My awesome website"
+  description = "Learning to get into Bug Bounty & Application Security."
 
 [author]
   name = "SauravDhakal"
